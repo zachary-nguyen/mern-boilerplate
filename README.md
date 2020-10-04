@@ -1,2 +1,4 @@
 # mern-boilerplate
-A boiler plate for mern stack application. Ready to deploy to heroku
+A boiler plate for mern stack application.
+Ready to deploy to heroku.
+Includes CI/CD.
